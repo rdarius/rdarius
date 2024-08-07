@@ -2,7 +2,7 @@
 
 🔭 I’m currently working on [NeoBot](https://neobot.pro) A twitch chat bot
 
-⚡ Fun fact: I am really lazy ant take up more work than I can possibly do...
+⚡ Fun fact: I am really lazy and take up more work than I can possibly do...
 
 <!--
 **rdarius/rdarius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
